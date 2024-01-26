@@ -1,0 +1,96 @@
+{
+  "auth": {
+    "rolesSource": "/api/user/roles",
+    "identityProviders": {
+      "azureActiveDirectory": {
+        "userDetailsClaim": "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name",
+        "registration": {
+          "openIdIssuer": "https://login.microsoftonline.com/317c4a74-c403-41df-8e3f-0da70ad47ef1",
+          "clientIdSettingName": "AZURE_CLIENT_ID",
+          "clientSecretSettingName": "AZURE_CLIENT_SECRET"
+        },
+        "login": {
+          "loginParameters": ["resource=https://graph.microsoft.com"]
+        }
+      }
+    }
+  },
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": ["*.{css,scss,js,png,gif,ico,jpg,svg}"]
+  },
+  "platform": {
+    "apiRuntime": "python:3.10"
+  },
+  "responseOverrides": {
+    "400": {
+      "rewrite": "/invalid-invitation-error.html"
+    },
+    "401": {
+      "redirect": "/.auth/login/aad?post_login_redirect_uri=.referrer",
+      "statusCode": 302
+    },
+    "403": {
+      "rewrite": "/custom-forbidden-page.html"
+    },
+    "404": {
+      "rewrite": "/404.html"
+    }
+  },
+  "routes": [
+    {
+      "route": "/app/",
+      "allowedRoles": ["admin", "flanderijn", "energieleverancier"]
+    },
+    {
+      "route": "/app/flanderijn/upload",
+      "allowedRoles": ["admin", "flanderijn-admin"]
+    },
+    {
+      "route": "/app/flanderijn/exact-match",
+      "allowedRoles": ["admin", "flanderijn"]
+    },
+    {
+      "route": "/app/flanderijn/iwize",
+      "allowedRoles": ["admin", "flanderijn"]
+    },
+    {
+      "route": "/app/flanderijn/openstaand_FL",
+      "allowedRoles": ["admin", "flanderijn-admin", "flanderijn-senior"]
+    },
+    {
+      "route": "/app/el/*",
+      "allowedRoles": ["energieleverancier", "admin"]
+    },
+    {
+      "route": "/app/status",
+      "allowedRoles": ["energieleverancier", "admin", "flanderijn-admin", "flanderijn-senior"]
+    },
+    {
+      "route": "/app/te_verwerken",
+      "allowedRoles": ["energieleverancier", "admin", "flanderijn-admin"]
+    },
+    {
+      "route": "/api/*",
+      "methods": ["GET"],
+      "allowedRoles": ["energieleverancier", "admin", "flanderijn"]
+    },
+    {
+      "route": "/api/*",
+      "methods": ["POST"],
+      "allowedRoles": ["admin", "flanderijn"]
+    },
+    {
+      "route": "/api/*",
+      "allowedRoles": ["energieleverancier", "admin", "flanderijn"]
+    },
+    {
+      "route": "/login",
+      "rewrite": "/.auth/login/aad"
+    },
+    {
+      "route": "/logout",
+      "rewrite": "/.auth/logout"
+    }
+  ]
+}

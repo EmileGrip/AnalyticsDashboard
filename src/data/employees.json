@@ -1,0 +1,4114 @@
+[
+  {
+    "EmployeeName": "John Tucker",
+    "Department": "HR",
+    "ExperienceLevel": 2,
+    "Skills": [
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Big Data",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Google Analytics",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "C++ programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Matthew Lee",
+    "Department": "IT",
+    "ExperienceLevel": 4,
+    "Skills": [
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Augmented Reality (AR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Data analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "PMP certification",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "C++ programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Product management",
+        "SkillCategory": "Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Java programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Google Cloud Platform (GCP)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "PHP programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Public speaking",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Thomas Rush",
+    "Department": "Sales",
+    "ExperienceLevel": 4,
+    "Skills": [
+      {
+        "SkillName": "Social media management",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Google Ads",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Video editing",
+        "SkillCategory": "Multimedia",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Network administration",
+        "SkillCategory": "IT",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Copywriting",
+        "SkillCategory": "Writing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Agile methodology",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "PHP programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Google Analytics",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Kyle Lewis",
+    "Department": "Marketing",
+    "ExperienceLevel": 2,
+    "Skills": [
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Python programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "PHP programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Blockchain",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Ruby programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Creative Cloud",
+        "SkillCategory": "Design",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Microsoft Azure",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Microsoft Office Suite",
+        "SkillCategory": "Productivity",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Daniel Murphy",
+    "Department": "Sales",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Excel",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Tableau",
+        "SkillCategory": "Data Visualization",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Copywriting",
+        "SkillCategory": "Writing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Financial modeling",
+        "SkillCategory": "Finance",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Google Ads",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Data analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Network security",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "UI/UX design",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Content management",
+        "SkillCategory": "Content",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Video editing",
+        "SkillCategory": "Multimedia",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Augmented Reality (AR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Katherine Williams",
+    "Department": "Marketing",
+    "ExperienceLevel": 9,
+    "Skills": [
+      {
+        "SkillName": "Product management",
+        "SkillCategory": "Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Git",
+        "SkillCategory": "Version Control",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Candace Berger",
+    "Department": "Finance",
+    "ExperienceLevel": 5,
+    "Skills": [
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Content strategy",
+        "SkillCategory": "Content",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Scala programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "PMP certification",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Social media management",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "UI/UX design",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Foreign language proficiency",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Matthew Morales",
+    "Department": "IT",
+    "ExperienceLevel": 4,
+    "Skills": [
+      {
+        "SkillName": "Swift programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Arduino programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Graphic design",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Creative Cloud",
+        "SkillCategory": "Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "C++ programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "AutoCAD",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "PHP programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Ruby programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Samuel Bradley",
+    "Department": "Sales",
+    "ExperienceLevel": 5,
+    "Skills": [
+      {
+        "SkillName": "Mobile app development",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Google Cloud Platform (GCP)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Natural Language Processing (NLP)",
+        "SkillCategory": "Machine Learning",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Tableau",
+        "SkillCategory": "Data Visualization",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "C++ programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Adobe Lightroom",
+        "SkillCategory": "Photography",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Blockchain",
+        "SkillCategory": "Technology",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "React Native",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Network administration",
+        "SkillCategory": "IT",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Bradley Ellis",
+    "Department": "Finance",
+    "ExperienceLevel": 7,
+    "Skills": [
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Final Cut Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Content strategy",
+        "SkillCategory": "Content",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Public speaking",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Python programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Microsoft Azure",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "SAP",
+        "SkillCategory": "Enterprise Resource Planning (ERP)",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Content management",
+        "SkillCategory": "Content",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Matthew Cochran",
+    "Department": "HR",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Search Engine Marketing (SEM)",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Swift programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "React Native",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Product management",
+        "SkillCategory": "Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adobe Illustrator",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Microsoft Azure",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Scrum",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Lawrence Vazquez",
+    "Department": "HR",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Tableau",
+        "SkillCategory": "Data Visualization",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "AutoCAD",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Mary Martinez",
+    "Department": "IT",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "3D modeling and animation",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "React Native",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX/UI design",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Photography",
+        "SkillCategory": "Visual Arts",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Google Analytics",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "E-commerce",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Heather Stanley",
+    "Department": "HR",
+    "ExperienceLevel": 9,
+    "Skills": [
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Statistical analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Autodesk Inventor",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Git",
+        "SkillCategory": "Version Control",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Photoshop",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Sarah Bailey",
+    "Department": "Finance",
+    "ExperienceLevel": 1,
+    "Skills": [
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Content management",
+        "SkillCategory": "Content",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Mobile app development",
+        "SkillCategory": "Programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Statistical analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Tableau",
+        "SkillCategory": "Data Visualization",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Financial modeling",
+        "SkillCategory": "Finance",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Jira",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Photoshop",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Problem-solving",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "PMP certification",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Amanda Dalton",
+    "Department": "Sales",
+    "ExperienceLevel": 3,
+    "Skills": [
+      {
+        "SkillName": "Blockchain",
+        "SkillCategory": "Technology",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Network administration",
+        "SkillCategory": "IT",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Revit",
+        "SkillCategory": "Architecture",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Big Data",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Machine learning",
+        "SkillCategory": "Artificial Intelligence",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Augmented Reality (AR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Statistical analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Heather Herrera",
+    "Department": "Marketing",
+    "ExperienceLevel": 9,
+    "Skills": [
+      {
+        "SkillName": "Adobe Lightroom",
+        "SkillCategory": "Photography",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Red Hat Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Kubernetes",
+        "SkillCategory": "Containerization",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Excel",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Amazon Web Services (AWS)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "UI/UX prototyping",
+        "SkillCategory": "Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "PMP certification",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Collaboration",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Hailey Burns",
+    "Department": "Marketing",
+    "ExperienceLevel": 2,
+    "Skills": [
+      {
+        "SkillName": "Leadership",
+        "SkillCategory": "Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Network security",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Data Management",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "E-commerce",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Arduino programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Search Engine Marketing (SEM)",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Tableau",
+        "SkillCategory": "Data Visualization",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Excel",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Christine Newton",
+    "Department": "Marketing",
+    "ExperienceLevel": 4,
+    "Skills": [
+      {
+        "SkillName": "Network administration",
+        "SkillCategory": "IT",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Agile methodology",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Network security",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "UI/UX design",
+        "SkillCategory": "Design",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Git",
+        "SkillCategory": "Version Control",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Red Hat Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Sean Baker",
+    "Department": "HR",
+    "ExperienceLevel": 10,
+    "Skills": [
+      {
+        "SkillName": "Network administration",
+        "SkillCategory": "IT",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Mobile app development",
+        "SkillCategory": "Programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "ReactJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Julie Robinson",
+    "Department": "Sales",
+    "ExperienceLevel": 6,
+    "Skills": [
+      {
+        "SkillName": "C++ programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "SEO optimization",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Machine learning",
+        "SkillCategory": "Artificial Intelligence",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Kubernetes",
+        "SkillCategory": "Containerization",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Revit",
+        "SkillCategory": "Architecture",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Todd Dennis",
+    "Department": "Finance",
+    "ExperienceLevel": 4,
+    "Skills": [
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Excel",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adobe After Effects",
+        "SkillCategory": "Motion Graphics",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Christina Adams DVM",
+    "Department": "IT",
+    "ExperienceLevel": 5,
+    "Skills": [
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Leadership",
+        "SkillCategory": "Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "E-commerce",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "React Native",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Adobe Dreamweaver",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Revit",
+        "SkillCategory": "Architecture",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Content strategy",
+        "SkillCategory": "Content",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Yvonne Moore",
+    "Department": "Finance",
+    "ExperienceLevel": 7,
+    "Skills": [
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX/UI design",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "SEO optimization",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Diana Harris",
+    "Department": "HR",
+    "ExperienceLevel": 1,
+    "Skills": [
+      {
+        "SkillName": "Google Cloud Platform (GCP)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Microsoft Office Suite",
+        "SkillCategory": "Productivity",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Scrum",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Big Data",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Cybersecurity",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "ReactJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Photography",
+        "SkillCategory": "Visual Arts",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Jira",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Evan Johnson",
+    "Department": "IT",
+    "ExperienceLevel": 6,
+    "Skills": [
+      {
+        "SkillName": "Scala programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Financial modeling",
+        "SkillCategory": "Finance",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Graphic design",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Foreign language proficiency",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Google Ads",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Lightroom",
+        "SkillCategory": "Photography",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Content strategy",
+        "SkillCategory": "Content",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Kubernetes",
+        "SkillCategory": "Containerization",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Carol Shaw",
+    "Department": "Sales",
+    "ExperienceLevel": 4,
+    "Skills": [
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "SAP",
+        "SkillCategory": "Enterprise Resource Planning (ERP)",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Product management",
+        "SkillCategory": "Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Project management",
+        "SkillCategory": "Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "PHP programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Amazon S3",
+        "SkillCategory": "Cloud Storage",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Microsoft Office Suite",
+        "SkillCategory": "Productivity",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Ruby programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Nancy Lee",
+    "Department": "Sales",
+    "ExperienceLevel": 6,
+    "Skills": [
+      {
+        "SkillName": "Amazon S3",
+        "SkillCategory": "Cloud Storage",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Google Cloud Platform (GCP)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "UI/UX design",
+        "SkillCategory": "Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Content strategy",
+        "SkillCategory": "Content",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Michael Smith",
+    "Department": "Marketing",
+    "ExperienceLevel": 6,
+    "Skills": [
+      {
+        "SkillName": "Python programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Scrum",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Illustrator",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Kubernetes",
+        "SkillCategory": "Containerization",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "ReactJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "HTML/CSS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Johnathan Mckay",
+    "Department": "IT",
+    "ExperienceLevel": 10,
+    "Skills": [
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Public speaking",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Arduino programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Statistical analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Claire Shelton",
+    "Department": "Finance",
+    "ExperienceLevel": 10,
+    "Skills": [
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Java programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "PMP certification",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Google Ads",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Colton Martin",
+    "Department": "Finance",
+    "ExperienceLevel": 2,
+    "Skills": [
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Ruby programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "AutoCAD Civil 3D",
+        "SkillCategory": "Civil Engineering",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Amazon S3",
+        "SkillCategory": "Cloud Storage",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Augmented Reality (AR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Problem-solving",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Collaboration",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Kathleen Holloway",
+    "Department": "Finance",
+    "ExperienceLevel": 6,
+    "Skills": [
+      {
+        "SkillName": "Amazon S3",
+        "SkillCategory": "Cloud Storage",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adobe Illustrator",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Autodesk Maya",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Search Engine Marketing (SEM)",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Data Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Foreign language proficiency",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Photography",
+        "SkillCategory": "Visual Arts",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Devon Singleton",
+    "Department": "Finance",
+    "ExperienceLevel": 10,
+    "Skills": [
+      {
+        "SkillName": "Data analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "TensorFlow",
+        "SkillCategory": "Machine Learning",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Arduino programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Google Analytics",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Lisa Jones",
+    "Department": "Sales",
+    "ExperienceLevel": 9,
+    "Skills": [
+      {
+        "SkillName": "Network security",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Mobile app development",
+        "SkillCategory": "Programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Digital marketing",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "3D modeling and animation",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Collaboration",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Problem-solving",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe After Effects",
+        "SkillCategory": "Motion Graphics",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "SQL",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Financial modeling",
+        "SkillCategory": "Finance",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Shelby Ramirez",
+    "Department": "Finance",
+    "ExperienceLevel": 10,
+    "Skills": [
+      {
+        "SkillName": "3D modeling and animation",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Blockchain",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Revit",
+        "SkillCategory": "Architecture",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Terry King",
+    "Department": "Marketing",
+    "ExperienceLevel": 2,
+    "Skills": [
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Final Cut Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Mobile app development",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Logan Hale",
+    "Department": "Finance",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "SAP",
+        "SkillCategory": "Enterprise Resource Planning (ERP)",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Microsoft Office Suite",
+        "SkillCategory": "Productivity",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Swift programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Autodesk Inventor",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Data Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "React Native",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Copywriting",
+        "SkillCategory": "Writing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Kathy Mclean",
+    "Department": "IT",
+    "ExperienceLevel": 3,
+    "Skills": [
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Digital marketing",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Adobe Illustrator",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Cybersecurity",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Brittany Crawford MD",
+    "Department": "Sales",
+    "ExperienceLevel": 7,
+    "Skills": [
+      {
+        "SkillName": "Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Cybersecurity",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Git",
+        "SkillCategory": "Version Control",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Public speaking",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "SAP",
+        "SkillCategory": "Enterprise Resource Planning (ERP)",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Cheryl Johnson",
+    "Department": "HR",
+    "ExperienceLevel": 3,
+    "Skills": [
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Data Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Microsoft Office Suite",
+        "SkillCategory": "Productivity",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "C++ programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Negotiation",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Swift programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Search Engine Marketing (SEM)",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "UX research",
+        "SkillCategory": "Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Diana James",
+    "Department": "Finance",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Data analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Photography",
+        "SkillCategory": "Visual Arts",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Digital marketing",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "PMP certification",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "E-commerce",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Stress management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "HTML/CSS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Arduino programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Foreign language proficiency",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Jira",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Negotiation",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Copywriting",
+        "SkillCategory": "Writing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Katelyn Hopkins",
+    "Department": "Sales",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Cybersecurity",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "AutoCAD",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Copywriting",
+        "SkillCategory": "Writing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Flexibility",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "SEO optimization",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Scala programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Public speaking",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Mobile app development",
+        "SkillCategory": "Programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adobe Illustrator",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Presentation skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Problem-solving",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Kubernetes",
+        "SkillCategory": "Containerization",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Content strategy",
+        "SkillCategory": "Content",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Google Cloud Platform (GCP)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Foreign language proficiency",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Michelle Shaffer",
+    "Department": "Marketing",
+    "ExperienceLevel": 1,
+    "Skills": [
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "SAP",
+        "SkillCategory": "Enterprise Resource Planning (ERP)",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Statistical analysis",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Agile methodology",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Resilience",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Crystal Hanson",
+    "Department": "Finance",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "Problem-solving",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Google Analytics",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Interpersonal skills",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "SAP",
+        "SkillCategory": "Enterprise Resource Planning (ERP)",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Augmented Reality (AR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Christopher Waller",
+    "Department": "Sales",
+    "ExperienceLevel": 5,
+    "Skills": [
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "AutoCAD",
+        "SkillCategory": "3D Modeling",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Network security",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "ReactJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Machine learning",
+        "SkillCategory": "Artificial Intelligence",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "UX/UI design",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Copywriting",
+        "SkillCategory": "Writing",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Listening skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe After Effects",
+        "SkillCategory": "Motion Graphics",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Adobe Creative Cloud",
+        "SkillCategory": "Design",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "R programming",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 2,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Networking",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "InDesign",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Google Analytics",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Sheri Kane",
+    "Department": "Sales",
+    "ExperienceLevel": 5,
+    "Skills": [
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Virtual Reality (VR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Photoshop",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Arduino programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Cultural awareness",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Product management",
+        "SkillCategory": "Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Conflict resolution",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Budgeting",
+        "SkillCategory": "Financial Modeling",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Shell scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Curtis Smith",
+    "Department": "Finance",
+    "ExperienceLevel": 8,
+    "Skills": [
+      {
+        "SkillName": "TensorFlow",
+        "SkillCategory": "Machine Learning",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Vue.js",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Agile methodology",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Bash scripting",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "UX/UI design",
+        "SkillCategory": "Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Adobe Premiere Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Illustrator",
+        "SkillCategory": "Graphic Design",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Amazon S3",
+        "SkillCategory": "Cloud Storage",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Ruby programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Jira",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Teamwork",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Power BI",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Network administration",
+        "SkillCategory": "IT",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Tableau",
+        "SkillCategory": "Data Visualization",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Jesse Daugherty",
+    "Department": "Sales",
+    "ExperienceLevel": 7,
+    "Skills": [
+      {
+        "SkillName": "Public speaking",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Creativity",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Data Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Critical thinking",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Communication skills",
+        "SkillCategory": "Communication",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Amazon Web Services (AWS)",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Salesforce",
+        "SkillCategory": "CRM",
+        "SkillLevel": 1,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Initiative",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Objective-C programming",
+        "SkillCategory": "Mobile App Development",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Network security",
+        "SkillCategory": "IT Security",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Final Cut Pro",
+        "SkillCategory": "Video Editing",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Decision-making",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Conflict management",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Augmented Reality (AR) development",
+        "SkillCategory": "Technology",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Excel",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 4,
+        "ExpectedLevel": 4
+      }
+    ]
+  },
+  {
+    "EmployeeName": "Caleb Foster",
+    "Department": "IT",
+    "ExperienceLevel": 5,
+    "Skills": [
+      {
+        "SkillName": "Digital marketing",
+        "SkillCategory": "Marketing",
+        "SkillLevel": 1,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Amazon S3",
+        "SkillCategory": "Cloud Storage",
+        "SkillLevel": 1,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 1,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "HTML/CSS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Empathy",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Adaptability",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Red Hat Linux",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 4,
+        "ExpectedLevel": 0
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Problem-solving",
+        "SkillCategory": "Problem Solving",
+        "SkillLevel": 2,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "PHP programming",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Emotional intelligence",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 4,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Google Ads",
+        "SkillCategory": "Digital Marketing",
+        "SkillLevel": 3,
+        "ExpectedLevel": 4
+      },
+      {
+        "SkillName": "Computer programming",
+        "SkillCategory": "Data Management",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Time management",
+        "SkillCategory": "Personal Development",
+        "SkillLevel": 4,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "AngularJS",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 2,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Collaboration",
+        "SkillCategory": "Interpersonal",
+        "SkillLevel": 3,
+        "ExpectedLevel": 1
+      },
+      {
+        "SkillName": "Unity 3D",
+        "SkillCategory": "Computer programming",
+        "SkillLevel": 3,
+        "ExpectedLevel": 2
+      },
+      {
+        "SkillName": "Scrum",
+        "SkillCategory": "Project Management",
+        "SkillLevel": 2,
+        "ExpectedLevel": 3
+      },
+      {
+        "SkillName": "Big Data",
+        "SkillCategory": "Data Analysis",
+        "SkillLevel": 3,
+        "ExpectedLevel": 3
+      }
+    ]
+  }
+]
