@@ -209,7 +209,7 @@ export default function StatsPage() {
             <TotalSkillChart data={graphData} />
           </CardContent>
         </Card>
-        <Card>
+        <Card className='col-span-3'>
           <CardHeader>
             <CardTitle>Most common skills in {nameOfDepartment}</CardTitle>
             <CardDescription>
